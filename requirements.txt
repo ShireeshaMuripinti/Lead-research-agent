@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+google-genai
+google-generativeai
+google-cloud-storage
+tavily-python
+requests
+sqlalchemy
+pandas
+plotly
+langgraph
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
